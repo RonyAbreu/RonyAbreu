@@ -8,8 +8,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RonyAbreu&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=483D8B&text_color=fff&bg_color=0d1117" alt="Ronyelison Abreu github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyAbreu&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RonyAbreu&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=483D8B" alt="Ronyelison Abreu github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyAbreu&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=483D8B" />
 </div>
 
 
