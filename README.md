@@ -14,22 +14,37 @@
 
 
 <div align="center"> 
-<a href="https://www.youtube.com/@ronydovava/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@ronydesenvolvedor" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:ronyelison78@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ronyelison-de-oliveira-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
- ### Minhas Habilidades:
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=blue)&nbsp;
+ ### Minhas Habilidades (Tecnologias):
+- Java
+- Spring Framework
+- Rest APIs
+- MySQL
+- HTML 5
+- CSS 3
+- JavaScript
+- Junit
+- Rest Assured
+- Swagger
 
+### Infra
+- Docker
+- Docker Compose
+- Maven
+
+### Ferramentas de Desenvolvimento:
+- Intellij IDEA
+- VScode
+- Eclipse
+- DBeaver
+- MySQL WorkBench
 
 ### Estou Estudando no Momento:
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)&nbsp;
-![Sql](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue)&nbsp;
-
+- Docker Swarm e Kubernetes
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
