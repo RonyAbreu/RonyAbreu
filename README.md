@@ -44,7 +44,7 @@
 - MySQL WorkBench
 
 ### Estou Estudando no Momento:
-- Docker Swarm e Kubernetes
+- React
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
