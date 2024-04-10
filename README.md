@@ -1,9 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
 <div align="center" >
-      <h3> Olá, meu nome é Ronyelison de Oliveira Abreu, tenho 22 anos e estou cursando Ciência da Computação na UFPB CAMPUS IV. Tenho uma grande paixão pela tecnologia e pelo       
+      <h2>Olá, seja bem-vindo!</h2>
+      <h3> Me chamo Ronyelison de Oliveira Abreu, tenho 22 anos e estou cursando Ciência da Computação na UFPB CAMPUS IV. Tenho uma grande paixão pela tecnologia e pelo       
           desenvolvimento WEB, e estou constantemente buscando me aprofundar nessa área.
       </h3>
+      <hr />
     </div>
 
 <br></br>
