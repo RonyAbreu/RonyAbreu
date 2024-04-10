@@ -6,8 +6,9 @@
       <h3> Me chamo Ronyelison de Oliveira Abreu, tenho 22 anos e estou cursando Ciência da Computação na UFPB CAMPUS IV. Tenho uma grande paixão pela tecnologia e pelo       
           desenvolvimento WEB, e estou constantemente buscando me aprofundar nessa área.
       </h3>
-      <hr />
     </div>
+
+##
 
 <br></br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RonyAbreu&bg_color=483D8B&color=fff&line=000&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
