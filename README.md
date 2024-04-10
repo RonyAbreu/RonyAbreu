@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
+          
 <div align="center" >
       <h2>Olá, seja bem-vindo!</h2>
       <h3> Me chamo Ronyelison de Oliveira Abreu, tenho 22 anos e estou cursando Ciência da Computação na UFPB CAMPUS IV. Tenho uma grande paixão pela tecnologia e pelo       
@@ -26,31 +27,46 @@
 </div>
  
  ### Minhas Habilidades (Tecnologias):
-- Java
-- Spring Framework
-- Rest APIs
-- MySQL
-- HTML 5
-- CSS 3
-- JavaScript
-- Junit
-- Rest Assured
-- Swagger
+ <div>
+          <div style="display: inline_block">
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+          </div>
+  </div>
 
-### Infra
-- Docker
-- Docker Compose
-- Maven
+### Infraestrutura:
+<div>
+          <div style="display: inline_block">
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+          </div>
+</div>
 
 ### Ferramentas de Desenvolvimento:
-- Intellij IDEA
-- VScode
-- Eclipse
-- DBeaver
-- MySQL WorkBench
+<div>
+          <div style="display: inline_block">
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+          </div>
+</div>
 
 ### Estou Estudando no Momento:
-- React
+<div>
+          <div style="display: inline_block">
+                <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          </div>
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
